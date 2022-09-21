@@ -4,7 +4,6 @@ My name is Alfan Rosyadi (some call me as Alfan).
 
 * 🌍  I'm based in Indonesia!
 * ✉️  You can contact me at [alfanrosyadi30@gmail.com](mailto:alfanrosyadi30@gmail.com)
-* 🤝  I'm open to collaborating on open-source or personal projects.
 
 ### Skills
 
